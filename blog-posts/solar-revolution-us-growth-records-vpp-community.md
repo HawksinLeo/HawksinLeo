@@ -43,3 +43,5 @@ Community solar allows multiple individuals or businesses to subscribe to a sing
 
 ### Are states like Texas and Florida really leading in solar energy?
 Yes, absolutely. Despite their reputations, both Texas and Florida are now national leaders in solar capacity. Texas has leveraged its massive land area and competitive energy market to become a frontrunner in utility-scale solar development, which is now routinely breaking output records and complementing its wind power. Florida, driven by its sunny climate and growing energy demand, has seen a monumental surge in solar installations, transforming it into a major solar state, even as it continues to rely heavily on natural gas.
+
+For a more detailed version of research about America's Energy, please visit: https://medium.com/@sunpalsolar/solar-revolution-how-rooftop-community-and-utility-scale-projects-are-transforming-americas-d42fe615da5c
